@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aswin-Inigo
-- 👀 I'm a front end developer
-- 🌱 I’m currently learning React Js
+- 👀 I'm Full Stack developer
+- 🌱 I'v Mastereed learning React JS & Node js
 - 💞️ I’m looking to collaborate on ...
 - 📫 @aswininigo4@gmail.com
 
